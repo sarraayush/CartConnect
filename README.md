@@ -38,15 +38,12 @@ npm start
 
 ## API Documentation
 
-For detailed information on how to use the API endpoints, refer to the [API Documentation](./API_DOCUMENTATION.md).
+For detailed information on how to use the API endpoints, refer to the [API Documentation](./Ecommerce_api_documentation.pdf).
 
 ## Contributing
 
 Contributions are welcome! If you find any issues or would like to add new features, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](./LICENSE).
 
 
 
