@@ -38,7 +38,7 @@ npm start
 
 ## API Documentation
 
-For detailed information on how to use the API endpoints, refer to the [API Documentation](./Ecommerce_api_documentation.pdf).
+For detailed information on how to use the API endpoints, refer to the [API Documentation](https://docs.google.com/document/d/1OqSbAwOtgsFKgBXXd2mM8SfvFnqpwVQYz2VSg-q0Neo/edit?usp=sharing).
 
 ## Contributing
 
